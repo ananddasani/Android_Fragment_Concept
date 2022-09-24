@@ -1,6 +1,8 @@
 # Android_Fragment_Concept
 Using Fragments in App Instead of Intent
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### MainActivity.java
@@ -39,11 +41,6 @@ frag2.setOnClickListener(this);
 ```
 
 # App Highlight
+![Fragment and Tabs App](https://user-images.githubusercontent.com/74413402/192095523-887768de-3e7c-4916-a606-17d6a503652e.png)
+![Fragment and Tabs Code](https://user-images.githubusercontent.com/74413402/192095527-af78a92f-7e72-4c23-88c1-7f7d498f2231.png)
 
-<img src="app_images/Fragment Code.png" width="1000" /><br>
-
-<img src="app_images/Fragment App1.png" width="300" /><br>
-
-<img src="app_images/Fragment App2.png" width="300" /><br>
-
-<img src="app_images/Fragment App3.png" width="300" /><br>
