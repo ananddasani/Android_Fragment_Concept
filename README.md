@@ -41,6 +41,8 @@ frag2.setOnClickListener(this);
 ```
 
 # App Highlight
-![Fragment and Tabs App](https://user-images.githubusercontent.com/74413402/192095523-887768de-3e7c-4916-a606-17d6a503652e.png)
-![Fragment and Tabs Code](https://user-images.githubusercontent.com/74413402/192095527-af78a92f-7e72-4c23-88c1-7f7d498f2231.png)
+![Fragment App1](https://user-images.githubusercontent.com/74413402/192095646-b7b58b9a-8e4e-42b4-b066-5a448bdafb33.png)
+![Fragment App2](https://user-images.githubusercontent.com/74413402/192095650-40d9e8f1-b5ed-4b27-a948-0b6b87be7371.png)
+![Fragment App3](https://user-images.githubusercontent.com/74413402/192095653-1b05ca4e-1830-4f27-b06b-b464ece8be37.png)
+![Fragment Code](https://user-images.githubusercontent.com/74413402/192095656-cc48812c-6f65-4bf4-8488-1e6cd0b77c5d.png)
 
